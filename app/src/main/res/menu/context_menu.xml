@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu android:id="@+id/menu" xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_yellow"
+        android:title="Yellow"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/option_gray"
+        android:title="Gray"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/option_cyan"
+        android:title="Cyan"
+        tools:ignore="HardcodedText" />
+</menu>
